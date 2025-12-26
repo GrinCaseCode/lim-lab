@@ -1917,6 +1917,7 @@
 	}
 	.breadcrumbs {
 		font-size: 13px;
+		padding-right: 35px;
 		display: block;
 	}
 	.breadcrumbs li {
