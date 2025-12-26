@@ -1923,6 +1923,9 @@
 	.breadcrumbs li {
 		display: inline;
 	}
+	.single-service__left .title-section {
+		padding-right: 35px;
+	}
 	.single-service__left .btn-main {
 		margin-top: 22px;
 		padding: 0 10px;
