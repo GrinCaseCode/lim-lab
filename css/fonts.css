@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Roboto Flex";
+  src:
+    url("../fonts/RobotoFlex.woff2") format("woff2"),
+    url("../fonts/RobotoFlex.woff") format("woff"),
+    url("../fonts/RobotoFlex.ttf") format("truetype");
+  font-weight: 100 1000;
+  font-stretch: 25% 151%;
+  font-display: swap;
+}
+@font-face {
+	font-family: 'Oswald';
+	src: local('Oswald Regular'), local('Oswald-Regular'),
+	url('../fonts/Oswald-Regular.woff2') format('woff2'),
+	url('../fonts/Oswald-Regular.woff') format('woff'),
+	url('../fonts/Oswald-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Oswald';
+	src: local('Oswald Medium'), local('Oswald-Medium'),
+	url('../fonts/Oswald-Medium.woff2') format('woff2'),
+	url('../fonts/Oswald-Medium.woff') format('woff'),
+	url('../fonts/Oswald-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'Oswald';
+    src: local('Oswald Semi Bold'), local('Oswald-Semi-Bold'),
+        url('../fonts/Oswald-SemiBold.woff2') format('woff2'),
+        url('../fonts/Oswald-SemiBold.woff') format('woff'),
+        url('../fonts/Oswald-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
