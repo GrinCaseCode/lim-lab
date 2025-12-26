@@ -1843,7 +1843,7 @@
 	.menu-mobile {
 		width: 100%;
 		padding: 20px 15px;
-		padding-bottom: 30px;
+		padding-bottom: 80px;
 		max-height: calc(100vh - 65px);
 		top: 100%;
 		left: 0;
