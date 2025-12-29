@@ -552,14 +552,14 @@
 		margin-bottom: 36px;
 	}
 	.billbord__text {
-		font-size: 18px;
+		font-size: 18px; 
 	}
 	.btn-main {
 		height: 49px;
 		padding: 0 24px;
 		font-size: 14px;
 		gap: 10px;
-	}
+	} 
 	.billbord .btn-main {
 		margin-top: 87px;
 	}
