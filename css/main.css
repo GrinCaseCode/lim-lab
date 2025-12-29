@@ -1370,8 +1370,8 @@ form {
 .wrapper--contacts .header__socials {
 	display: none;
 }
-.grid-contacts {
+.grid-contacts { 
 	gap: 15px;
 	display: grid;
 	grid-template-columns: 1.4fr 1fr 1fr;
-} 
+}
