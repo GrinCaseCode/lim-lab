@@ -2131,6 +2131,9 @@
 	.page-numbers:hover {
 		color: #b90504;
 	}
+	.socials-list a:hover img {
+		transform: scale(1.1);
+	}
 }
 
 /*mobile hovers*/
@@ -2171,5 +2174,8 @@
 	.nav-article ul li a:active,
 	.page-numbers:active {
 		color: #b90504;
+	}
+	.socials-list a:active img {
+		transform: scale(1.1);
 	}
 }
